@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace StudentList
+namespace Mod_9_Homework
 {
     /// <summary>
     /// Interaction logic for App.xaml
